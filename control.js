@@ -143,4 +143,4 @@ function gameLoop(){
 	update();
 }
 init();
-var f=setInterval(gameLoop,100); //call the gameLoop function after every hundred miliseconds
+var f=setInterval(gameLoop,400); //call the gameLoop function after every hundred miliseconds
